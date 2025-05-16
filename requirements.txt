@@ -1,0 +1,7 @@
+pandas
+numpy
+tensorflow
+nltk
+opencv-python
+streamlit
+powerbiclient
