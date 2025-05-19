@@ -172,3 +172,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignore raw data
+data/raw/
+data/external/
+*.h5
+*.pkl
+*.pbix
+__pycache__/
+.ipynb_checkpoints/
+
